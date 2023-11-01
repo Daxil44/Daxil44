@@ -1,7 +1,7 @@
 <!---[![MasterHead](https://www.cloudyml.com/wp-content/uploads/2022/06/1_drpcfdfcc1wuade6sb74za-1-.gif)](https://daxilprofile.web.app/)-->
 
 <h1 align="center">Hey there 👋, I'm Daxil</h1>
-<h3 align="center">I am a hardworking and passionate developer from Toronto</h3>
+<h3 align="center">I am a hardworking and passionate developer from Canada</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
