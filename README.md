@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 - 🎓 I've completed my **Bachelors of Technology in IT** from **Indus University**.
-- 🎓 **Currently I am pursuing my post graduate diploma from Humber college**.
+- 🎓 I've completed my **post graduate diploma** from **Humber college**.
 - 🌱 I'm currently learning from [Udemy](https://www.udemy.com/),[Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
 - 🤝🏻 I'm open for collaborations in **.NET WEB API** , **Machine Learning**, **MERN**, **Java** and **Android** domains.
 - 📫 How to reach me daxil044@gmail.com
