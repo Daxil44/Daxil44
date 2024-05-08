@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/daxil-patel-7a9aa5175/?original_referer=https%3A%2F%2Fdaxilprofile.web.app%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daxil patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in//?original_referer=https%3A%2F%2Fdaxilprofile.web.app%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daxil patel" height="30" width="40" /></a>
 <a href="https://instagram.com/daxilpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daxilpatel" height="30" width="40" /></a>
 </p>
 
